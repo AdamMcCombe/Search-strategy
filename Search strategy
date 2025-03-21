@@ -1,0 +1,54 @@
+MEDLINE
+#	Query	Results
+S8	S3 AND S7	308
+S7	S4 OR S5 OR S6	6,529
+S6	XB "distress intolerance"	167
+S5	XB "distress tolerance"	758
+S4	(MH "Psychological Distress")	5,722
+S3	S1 OR S2	440,494
+S2	XB alcohol*	425,353
+S1	(MH "Alcohol Drinking") OR (MH "Alcohol Drinking in College") OR (MH "Binge Drinking")	80,949
+
+CINAHL
+#	Query	Results
+S8	S3 AND S7	362
+S7	S4 OR S5 OR S6	9,702
+S6	XB "distress intolerance"	104
+S5	XB "distress tolerance"	500
+S4	(MH "Psychological Distress")	9,231
+S3	S1 OR S2	121,091
+S2	XB alcohol*	111,326
+S1	(MH "Alcohol Drinking") OR (MH "Alcohol Drinking in College") OR (MH "Binge Drinking")	38,192
+
+PsycInfo
+#	Query	Results
+S8	S3 AND S7	1,196
+S7	S4 OR S5 OR S6	34,086
+S6	TI "distress intolerance" OR AB "distress intolerance" OR KW "distress intolerance"	219
+S5	TI "distress tolerance" OR AB "distress tolerance" OR KW "distress tolerance"	1,182
+S4	DE "Distress"	33,600
+S3	S1 OR S2	154,923
+S2	TI alcohol* OR AB alcohol* OR KW alcohol*	153,206
+S1	DE "Alcohol Use" OR DE "Binge Drinking" OR DE "Social Drinking"	32,966
+
+PsycArticles
+#	Query	Results
+S8	S3 AND S7	80
+S7	S4 OR S5 OR S6	2,336
+S6	TI "distress intolerance" OR AB "distress intolerance" OR KW "distress intolerance"	19
+S5	TI "distress tolerance" OR AB "distress tolerance" OR KW "distress tolerance"	94
+S4	DE "Distress"	2,305
+S3	S1 OR S2	5,707
+S2	TI alcohol* OR AB alcohol* OR KW alcohol*	5,632
+S1	DE "Alcohol Use" OR DE "Binge Drinking" OR DE "Social Drinking"	1,988
+
+Psychology and behavioural sciences
+#	Query	Results
+S8	S3 AND S7	234
+S7	S4 OR S5 OR S6	6,912
+S6	TI "distress intolerance" OR AB "distress intolerance"	55
+S5	TI "distress tolerance" OR AB "distress tolerance"	199
+S4	DE "PSYCHOLOGICAL distress"	6,764
+S3	S1 OR S2	30,653
+S2	TI alcohol* OR AB alcohol*	30,011
+S1	DE "ALCOHOL drinking"	8,282
